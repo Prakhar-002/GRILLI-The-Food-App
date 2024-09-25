@@ -17,7 +17,7 @@ Explore our responsive `food template crafted with HTML, CSS, and JavaScript.` P
 # Screenshots 🍨🍫🧁
 
 
-![Grilli](https://github.com/Prakhar-002/TVFLIX/assets/136890202/f6f644ce-520a-4dfc-a75b-61c606d96b4c)
+![Grilli](https://github.com/user-attachments/assets/213793b0-0686-4c8b-8d86-3e4a062d2353)
 
 
 <br/>
