@@ -43,15 +43,22 @@ Explore our responsive `food template crafted with HTML, CSS, and JavaScript.` P
 
 ## Deployment 🚀
 
-**To ⚡ GRILLI-The-Food-App locally**, *run this command on your git bash*
+1. **To ⚡ GRILLI-The-Food-App locally**, *run this command on your git bash*
 
 
-`For window 🍃`
-```bash
-  git clone https://github.com/Prakhar-002/GRILLI-The-Food-App.git
-```
+    `For window 🍥` 
+    ```bash
+      git clone https://github.com/Prakhar-002/GRILLI-The-Food-App.git
+    ```
 
-`For Linux and macOS 🌿`
-```bash
-  sudo git clone https://github.com/Prakhar-002/GRILLI-The-Food-App.git
-```
+    `For Linux and macOS 🍙`
+    ```bash
+      sudo git clone https://github.com/Prakhar-002/GRILLI-The-Food-App.git
+    ```
+
+<br/>
+
+## 🚀 About Me
+
+Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for mastering the `MERN (MongoDB, Express.js, React.js, Node.js)` stack 🎯  and diving deep into `Data Structures and Algorithms (DSA)` 🧑🏻‍💻
+
